@@ -20,10 +20,13 @@
 }
 
 .content__description{
+  width: 80%;
   margin-top: 15px;
+  text-align: center;
 }
 
 .content__description > p{
-  margin-top: 20px;
+  width: 80%;
+  margin: 20px auto;
   color: rgb(198, 197, 197);
 }
